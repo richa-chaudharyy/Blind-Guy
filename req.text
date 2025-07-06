@@ -1,0 +1,3 @@
+VOSK MODEL = vosk-model-small-en-us-0.15
+Reference_images = for scrap Reference_images
+yolov8n.pt = self made
